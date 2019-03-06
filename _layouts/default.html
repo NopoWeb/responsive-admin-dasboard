@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+<body>
+    <div class="d-flex" id="wrapper">
+        <div class="bg-light border-right" id="sidebar-wrapper">
+            <div class="sidebar-heading">{{ site.title }} </div>
+            {% include sidebar.html %}
+        </div>
+        <div id="page-content-wrapper">
+            {% include topbar.html %}
+            <div class="container-fluid">
+                {{ content }}    
+            </div>
+        </div>
+    </div>
+    {% include footer.html %}
+</body>
+</html>
