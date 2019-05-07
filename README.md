@@ -6,8 +6,10 @@ Responsive Admin Dashboard is responsive admin dashboard based from famous [Boot
 [![Responsive Admin Dashboard Preview](https://raw.githubusercontent.com/NopoWeb/responsive-admin-dasboard/master/screenshot.png)](https://github.com/NopoWeb/responsive-admin-dasboard/)
 
 ## Status
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/NopoWeb/responsive-admin-dasboard/master/LICENSE)
-[![Build Status](https://travis-ci.org/NopoWeb/responsive-admin-dasboard.svg?branch=master)](https://travis-ci.org/NopoWeb/responsive-admin-dasboard)
+[![GitHub issues](https://img.shields.io/github/issues/NopoWeb/responsive-admin-dasboard.svg)](https://github.com/NopoWeb/responsive-admin-dasboard/issues)
+[![GitHub forks](https://img.shields.io/github/forks/NopoWeb/responsive-admin-dasboard.svg)](https://github.com/NopoWeb/responsive-admin-dasboard/network)
+[![GitHub stars](https://img.shields.io/github/stars/NopoWeb/responsive-admin-dasboard.svg)](https://github.com/NopoWeb/responsive-admin-dasboard/stargazers)
+[![GitHub license](https://img.shields.io/github/license/NopoWeb/responsive-admin-dasboard.svg)](https://github.com/NopoWeb/responsive-admin-dasboard/blob/master/LICENSE)
 
 ## Download and Installation
 
